@@ -1,7 +1,7 @@
-# i23-2634-NLP-Assignment2
+# Artificial Intelligence and Machine Learning
 
-**CS-4063: Natural Language Processing — Assignment 2**  
-**Author:** Saif Shahzad | **Roll No:** 23i-2634 | **Section:** DS-A
+**Natural Language Processing**  
+**Author:** Saif Shahzad 
 
 ---
 
